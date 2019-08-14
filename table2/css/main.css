@@ -1,0 +1,53 @@
+div .table2{
+    border-radius: 10px;
+}
+table{
+    background-color: rgba(63, 58, 58, 0.788);
+    color:rgb(255, 255, 255);
+    width: 50%;
+    height: 50%;
+    border: 0.5 solid black;
+    border-collapse: collapse;
+    border-radius: 15px;
+
+}
+td{
+    font-size: 35px;    
+    border: 1px solid #ffffff;
+    border-right-width: 10px;
+    height: 50px;
+    text-align: center;
+    border-bottom-width: 3px;
+   
+   
+}
+th{
+    font-size: 17px;
+    border: 1px solid #ffffff;
+    height: 50px;
+    border-right-width: 10px;
+    text-align: center;
+}
+.big{
+    height: 150px;
+    font-size: 30px;
+}
+.big span{
+    font-size: 55px;
+}
+
+.yellow{
+    background-color: rgb(224, 201, 67);
+}
+.green{
+    background-color: rgb(35, 151, 35);
+}
+.blue{
+    background-color: rgba(43, 43, 129, 0.534);
+}
+tfoot td{
+    height: 100px;
+}
+sub{
+    font-size: 15px;
+}

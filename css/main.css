@@ -1,0 +1,36 @@
+table,
+td ,th{
+    border: 1px solid cornflowerblue;
+    border-collapse: collapse;
+    
+}
+thead{
+    background:black;
+    color: aliceblue;
+    
+}
+table thead td:hover{
+    background-color: hotpink;
+}
+tr:nth-child(even){
+    background: black;
+    color: aliceblue;
+}
+tr:nth-child(even):hover{
+    background: goldenrod;
+    color: aliceblue;
+}
+tr:nth-child(odd):hover{
+    background-color: rgb(124, 185, 212);
+}
+tbody tr #test{
+    width: 50px;
+    background-color: white ;    
+}
+img{
+    width: 50px;    
+}
+tbody tr #n2{
+    background-color: darkolivegreen;
+}
+/* ************************************************* */
